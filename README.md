@@ -12,7 +12,7 @@ Foo | Bar
 
 col1 | col2
 ---- | ----
-X | Y
+
 
 [click me](https://kaggle.com)
 
