@@ -1,7 +1,18 @@
-# About Me
+# Introduction
+## Name: Samarth
+## Role: Student
 
-# Experience
+# about me 
+**bold**
+`print("hello world")`
+col 1 | col 2
+------------------------------- | ----------------
+Foo   | Bar
 
-# Projects
+col1 | col2
+----|---
 
-# Socials
+[click me](https://kaggle.com)
+
+<h1 align = center>hello</h1>
+[type](https.github)
